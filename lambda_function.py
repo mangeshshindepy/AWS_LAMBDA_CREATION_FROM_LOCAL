@@ -3,8 +3,8 @@ import zipfile
 import os
 
 # Your AWS credentials
-AWS_ACCESS_KEY_ID = 'AKIAZHUXVDY7XT3CNLXF'
-AWS_SECRET_ACCESS_KEY = 'Bu4aAdNq4hs2tM1uILQKTQWF9EH4XpsZkPLKN7z1'
+AWS_ACCESS_KEY_ID = ''
+AWS_SECRET_ACCESS_KEY = ''
 AWS_REGION = 'ap-southeast-1'  # Replace with your desired AWS region
 
 # Define your Lambda function code
